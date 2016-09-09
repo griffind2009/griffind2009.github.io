@@ -2,13 +2,13 @@ h1 {
   text-align: center;
   color: rgb(194, 225, 232);
   //color: rgb(247, 234, 237);
-  font-family: 'Baloo Chettan', cursive, serif;
+  font-family: 'Baloo Chettan', cursive, sans-serif;
   margin: auto;
   display: block;
 }
 nav a {
   color: rgb(20, 26, 28);
-  font-family: 'Baloo Chettan', cursive, serif;
+  font-family: 'Baloo Chettan', cursive, sans-serif;
   text-decoration: none;
   display: inline;
   margin: 75px;
@@ -25,7 +25,7 @@ body {
   background-color: rgb(49, 78, 81);
   //background-color: rgb(129, 128, 237);
   text-align: left;
-  font-family: 'Indie Flower', cursive, serif;
+  font-family: 'Indie Flower', cursive, sans-serif;
   font-weight: bold;
   font-size: 18px;
   box-sizing: border-box;
@@ -39,9 +39,9 @@ a {
 h3 {
   color: rgb(194, 225, 232);
   //color: rgb(247, 234, 237);
-  font-family: 'Baloo Chettan', cursive, serif;
+  font-family: 'Baloo Chettan', cursive, sans-serif;
 }
 
 div.Contact Me {
-  color: color: rgb(43, 29, 32);
+  color: rgb(43, 29, 32);
 }
