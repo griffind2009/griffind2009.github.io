@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  color: rgb(194, 225, 232);
+  //color: rgb(247, 234, 237);
+  font-family: 'Baloo Chettan', cursive, serif;
+  margin: auto;
+  display: block;
+}
+nav a {
+  color: rgb(20, 26, 28);
+  font-family: 'Baloo Chettan', cursive, serif;
+  text-decoration: none;
+  display: inline;
+  margin: 75px;
+}
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid rgb(32, 41, 43) 2px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+body {
+  background-color: rgb(49, 78, 81);
+  //background-color: rgb(129, 128, 237);
+  text-align: left;
+  font-family: 'Indie Flower', cursive, serif;
+  font-weight: bold;
+  font-size: 18px;
+  box-sizing: border-box;
+  border: solid rgb(32, 41, 43) 5px;
+  margin: 30px;
+  padding: 40px;
+}
+a {
+  padding: 8px;
+}
+h3 {
+  color: rgb(194, 225, 232);
+  //color: rgb(247, 234, 237);
+  font-family: 'Baloo Chettan', cursive, serif;
+}
+
+div.Contact Me {
+  color: color: rgb(43, 29, 32);
+}
