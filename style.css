@@ -45,3 +45,10 @@ h3 {
 div.Contact Me {
   color: rgb(43, 29, 32);
 }
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: white;
+}
