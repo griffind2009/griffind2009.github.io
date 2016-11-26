@@ -1,17 +1,26 @@
 h1 {
   text-align: center;
   color: rgb(194, 225, 232);
-  //color: rgb(247, 234, 237);
+  /*color: rgb(247, 234, 237);*/
   font-family: 'Baloo Chettan', cursive, sans-serif;
   margin: auto;
   display: block;
+  /*background-image: url(http://blog.flatironschool.com/wp-content/uploads/2013/11/Ruby-and-JavaScript.jpg);
+  background-size: 1200px 160px;
+  padding: 50px;*/
+}
+nav {
+  /*background-color: rgb(246, 244, 247);*/
+  margin: 1px;
+  padding: .5px;
 }
 nav a {
   color: rgb(20, 26, 28);
   font-family: 'Baloo Chettan', cursive, sans-serif;
   text-decoration: none;
-  display: inline;
-  margin: 50px;
+  /*display: inline;*/
+  margin: 90px;
+  font-size: 18px;
 }
 img.displayed {
     display: block;
@@ -22,8 +31,9 @@ img.displayed {
     margin-bottom: 20px;
   }
 body {
-  background-color: rgb(49, 78, 81);
-  //background-color: rgb(129, 128, 237);
+  /*background-color: rgb(49, 78, 81);*/
+  background-color: rgb(129, 128, 237);
+  /*background-color: rgb(232, 207, 190);*/
   text-align: left;
   font-family: 'Indie Flower', cursive, sans-serif;
   font-weight: bold;
@@ -40,6 +50,7 @@ h3 {
   color: rgb(194, 225, 232);
   //color: rgb(247, 234, 237);
   font-family: 'Baloo Chettan', cursive, sans-serif;
+  font-size: 24px;
 }
 
 div.Contact Me {
@@ -51,4 +62,21 @@ a:link {
 
 a:visited {
     color: white;
+}
+.portfolio{
+  font-family: 'Baloo Chettan', cursive, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+#About{
+  font-size: 20px;
+}
+#skills{
+  font-size: 20px;
+}
+#Hobbies{
+  font-size: 20px;
+}
+.work{
+  font-size: 20px;
 }
