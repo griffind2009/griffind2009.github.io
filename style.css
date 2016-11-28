@@ -5,6 +5,7 @@ h1 {
   font-family: 'Baloo Chettan', cursive, sans-serif;
   margin: auto;
   display: block;
+  font-size: 40px;
 }
 nav {
   /*background-color: rgb(246, 244, 247);*/
@@ -50,7 +51,7 @@ h3 {
   font-size: 24px;
 }
 
-div.Contact Me {
+div#Contact{
   color: rgb(43, 29, 32);
 }
 a:link {
