@@ -1,25 +1,43 @@
 h1 {
   text-align: center;
-  color: rgb(194, 225, 232);
+  color: #7BDFF2;
+  /*color: rgb(194, 225, 232);*/
   /*color: rgb(247, 234, 237);*/
   font-family: 'Baloo Chettan', cursive, sans-serif;
   margin: auto;
   display: block;
   font-size: 40px;
 }
+#aboutme{
+  color: #F2B5D4;
+}
+.skills{
+  color: #7BDFF2;
+}
+.hobbies{
+  color: #7BDFF2;
+}
+.contact{
+  color: #7BDFF2;
+}
 nav {
   /*background-color: rgb(246, 244, 247);*/
+  /*color: #F2B5D4;*/
   margin: 1px;
   padding: .5px;
 }
+
 nav a {
-  color: rgb(20, 26, 28);
+  /*color: rgb(20, 26, 28);*/
+  color: #F2B5D4;
   font-family: 'Baloo Chettan', cursive, sans-serif;
   text-decoration: none;
   /*display: inline;*/
   margin: 90px;
   font-size: 18px;
+
 }
+
 img.displayed {
     display: block;
     margin-left: auto;
@@ -29,8 +47,8 @@ img.displayed {
     margin-bottom: 20px;
   }
 body {
-  background-color: rgb(49, 78, 81);
-  /*background-color: #EFF7F6; (white smoke)*/
+  /*background-color: rgb(49, 78, 81);*/
+  background-color: #EFF7F6; (white smoke)
   /*background-color: rgb(129, 128, 237);*/
   /*background-color: rgb(232, 207, 190);*/
   text-align: left;
@@ -38,7 +56,7 @@ body {
   font-weight: bold;
   font-size: 18px;
   box-sizing: border-box;
-  border: solid rgb(32, 41, 43) 5px;
+  /*border: solid rgb(32, 41, 43) 5px;*/
   margin: 30px;
   padding: 40px;
 }
@@ -46,21 +64,22 @@ a {
   padding: 8px;
 }
 h3 {
-  color: rgb(194, 225, 232);
-  //color: rgb(247, 234, 237);
+  color: #7BDFF2;
+  /*color: rgb(194, 225, 232);*/
+  /*color: rgb(247, 234, 237);*/
   font-family: 'Baloo Chettan', cursive, sans-serif;
   font-size: 24px;
 }
 
 div#Contact{
-  color: rgb(43, 29, 32);
+  /*color: rgb(43, 29, 32);*/
 }
 a:link {
     color: black;
 }
 
 a:visited {
-    color: white;
+    color: #F2B5D4;;
 }
 .portfolio{
   font-family: 'Baloo Chettan', cursive, sans-serif;
@@ -78,4 +97,7 @@ a:visited {
 }
 .work{
   font-size: 20px;
+}
+.linkedin{
+  color: black;
 }
