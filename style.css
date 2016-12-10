@@ -4,15 +4,25 @@ h1 {
   /*color: rgb(194, 225, 232);*/
   /*color: rgb(247, 234, 237);*/
   font-family: 'Baloo Chettan', cursive, sans-serif;
-  margin: auto;
+  margin: auto;;
   display: block;
-  font-size: 40px;
+  font-size: 50px;
+}
+h2 {
+    text-align: center;
+    color: #9CA7A8;
+    font-family: 'Baloo Chettan', cursive, sans-serif;
+    margin: auto;
+    display: block;
+    font-size: 40px;
 }
 #aboutme{
   color: #F2B5D4;
+/*color: #9B7487;*/
 }
 .skills{
-  color: #7BDFF2;
+  /*color: #7BDFF2;*/
+  color: #9B7487;
 }
 .hobbies{
   color: #7BDFF2;
@@ -23,13 +33,14 @@ h1 {
 nav {
   /*background-color: rgb(246, 244, 247);*/
   /*color: #F2B5D4;*/
-  margin: 1px;
-  padding: .5px;
+  margin: 10px;
+  padding: 5px;
 }
 
 nav a {
   /*color: rgb(20, 26, 28);*/
-  color: #F2B5D4;
+  /*color: #F2B5D4;*/
+  color: #9B7487;
   font-family: 'Baloo Chettan', cursive, sans-serif;
   text-decoration: none;
   /*display: inline;*/
@@ -57,6 +68,8 @@ body {
   font-size: 18px;
   box-sizing: border-box;
   /*border: solid rgb(32, 41, 43) 5px;*/
+  /*background-image: url(http://iloopworld.com/wp-content/uploads/2015/07/webdevelopment-img.jpg);
+  background-size: 1600px 1000px;*/
   margin: 30px;
   padding: 40px;
 }
