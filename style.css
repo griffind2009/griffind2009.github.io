@@ -57,13 +57,24 @@ img.displayed {
     margin-top: 10px;
     margin-bottom: 20px;
   }
+
+  summary {
+      font-family: 'Indie Flower', cursive, sans-serif;
+      font-weight: bold;
+  }
+  p {
+    font-family: 'Baloo Chettan', cursive, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    color: #2D3838;
+  }
 body {
   /*background-color: rgb(49, 78, 81);*/
   background-color: #EFF7F6; (white smoke)
   /*background-color: rgb(129, 128, 237);*/
   /*background-color: rgb(232, 207, 190);*/
   text-align: left;
-  font-family: 'Indie Flower', cursive, sans-serif;
+  /*font-family: 'Indie Flower', cursive, sans-serif;*/
   font-weight: bold;
   font-size: 18px;
   box-sizing: border-box;
