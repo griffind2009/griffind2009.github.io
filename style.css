@@ -17,11 +17,12 @@ h2 {
     font-size: 40px;
 }
 #aboutme{
-  color: #F2B5D4;
+  /*color: #F2B5D4;*/
 /*color: #9B7487;*/
+color: black;
 }
-.skills{
-  /*color: #7BDFF2;*/
+/*.skills{
+  color: #7BDFF2;
   color: #9B7487;
 }
 .hobbies{
@@ -29,7 +30,7 @@ h2 {
 }
 .contact{
   color: #7BDFF2;
-}
+}*/
 nav {
   /*background-color: rgb(246, 244, 247);*/
   /*color: #F2B5D4;*/
@@ -40,7 +41,7 @@ nav {
 nav a {
   /*color: rgb(20, 26, 28);*/
   /*color: #F2B5D4;*/
-  color: #9B7487;
+  /*color: #9B7487;*/
   font-family: 'Baloo Chettan', cursive, sans-serif;
   text-decoration: none;
   /*display: inline;*/
