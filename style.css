@@ -19,7 +19,7 @@ h2 {
 #aboutme{
   /*color: #F2B5D4;*/
 /*color: #9B7487;*/
-color: black;
+/*color: black;*/
 }
 /*.skills{
   color: #7BDFF2;
@@ -72,6 +72,7 @@ img.displayed {
 body {
   /*background-color: rgb(49, 78, 81);*/
   background-color: #EFF7F6; (white smoke)
+  /*background-image: url(http://www.pageresource.com/wallpapers/wallpaper/free-graph-formica-wood-grain-texture-love-textures_887907.jpg);*/
   /*background-color: rgb(129, 128, 237);*/
   /*background-color: rgb(232, 207, 190);*/
   text-align: left;
