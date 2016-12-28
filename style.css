@@ -1,6 +1,20 @@
 h1 {
   text-align: center;
+<<<<<<< HEAD
   color: #7BDFF2;
+=======
+  color: rgb(255, 189, 161);
+  /*color: rgb(194, 225, 232);*/
+  /*color: rgb(247, 234, 237);*/
+  font-family: 'Baloo Chettan', cursive, sans-serif;
+  margin: auto;
+  display: block;
+  font-size: 48px;
+}
+h2 {
+  text-align: center;
+  color: rgb(255, 189, 161);
+>>>>>>> practice
   /*color: rgb(194, 225, 232);*/
   /*color: rgb(247, 234, 237);*/
   font-family: 'Baloo Chettan', cursive, sans-serif;
@@ -57,6 +71,8 @@ img.displayed {
     border: solid rgb(32, 41, 43) 2px;
     margin-top: 10px;
     margin-bottom: 20px;
+    box-sizing: border-box;
+    border: solid black 10px;
   }
 
   summary {
@@ -71,18 +87,34 @@ img.displayed {
   }
 body {
   /*background-color: rgb(49, 78, 81);*/
+<<<<<<< HEAD
   background-color: #EFF7F6; (white smoke)
   /*background-image: url(http://www.pageresource.com/wallpapers/wallpaper/free-graph-formica-wood-grain-texture-love-textures_887907.jpg);*/
+=======
+  /*background-color: #EFF7F6; (white smoke)*/
+  /*http://www.pageresource.com/wallpapers/wallpaper/free-graph-formica-wood-grain-texture-love-textures_887907.jpg*/
+  /*background-image: url(https://www.goodfreephotos.com/albums/astrophotography/milky-way-and-starry-night-sky.jpg);*/
+  background-image: url(http://picalls.com/wp-content/uploads/2015/03/Amazing-night-sky.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  /*background-size: 1400px 1200px;*/
+>>>>>>> practice
   /*background-color: rgb(129, 128, 237);*/
   /*background-color: rgb(232, 207, 190);*/
   text-align: left;
   /*font-family: 'Indie Flower', cursive, sans-serif;*/
   font-weight: bold;
   font-size: 18px;
+<<<<<<< HEAD
   box-sizing: border-box;
   /*border: solid rgb(32, 41, 43) 5px;*/
   /*background-image: url(http://iloopworld.com/wp-content/uploads/2015/07/webdevelopment-img.jpg);
   background-size: 1600px 1000px;*/
+=======
+>>>>>>> practice
   margin: 30px;
   padding: 40px;
 }
@@ -90,9 +122,13 @@ a {
   padding: 8px;
 }
 h3 {
+<<<<<<< HEAD
   color: #7BDFF2;
   /*color: rgb(194, 225, 232);*/
   /*color: rgb(247, 234, 237);*/
+=======
+  color: rgb(255, 189, 161);
+>>>>>>> practice
   font-family: 'Baloo Chettan', cursive, sans-serif;
   font-size: 24px;
 }
@@ -101,7 +137,7 @@ div#Contact{
   /*color: rgb(43, 29, 32);*/
 }
 a:link {
-    color: black;
+    color: white;
 }
 
 a:visited {
@@ -114,15 +150,26 @@ a:visited {
 }
 #About{
   font-size: 20px;
+  color: white;
 }
 #skills{
   font-size: 20px;
+  color: white;
 }
 #Hobbies{
   font-size: 20px;
+  color: white;
 }
 .work{
   font-size: 20px;
+  color: white;
+}
+
+form {
+  color: white;
+}
+p {
+  color: white;
 }
 .linkedin{
   color: black;
