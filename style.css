@@ -15,6 +15,11 @@ h2 {
   font-size: 40px;
 }
 
+h3 {
+  color: rgb(255, 189, 161);
+  font-family: 'Baloo Chettan', cursive, sans-serif;
+  font-size: 28px;
+}
 
 nav {
   /*background-color: rgb(246, 244, 247);*/
@@ -75,12 +80,6 @@ body {
 a {
   padding: 8px;
 }
-h3 {
-  color: rgb(255, 189, 161);
-  font-family: 'Baloo Chettan', cursive, sans-serif;
-  font-size: 28px;
-}
-
 
 a:link {
     color: white;
