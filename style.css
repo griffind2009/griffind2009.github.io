@@ -58,12 +58,17 @@ body {
   /*background-color: #EFF7F6; (white smoke)*/
   /*http://www.pageresource.com/wallpapers/wallpaper/free-graph-formica-wood-grain-texture-love-textures_887907.jpg*/
   /*background-image: url(https://www.goodfreephotos.com/albums/astrophotography/milky-way-and-starry-night-sky.jpg);*/
-  background-image: url(http://picalls.com/wp-content/uploads/2015/03/Amazing-night-sky.jpg);
+  /*background-image: url(http://picalls.com/wp-content/uploads/2015/03/Amazing-night-sky.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-position: center;
+  background-position: center;*/
+  background: #6CAFD9; /* For browsers that do not support gradients */
+background: -webkit-linear-gradient(left, #6CAFD9 , #775499); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(right, #6CAFD9 , #775499); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(right, #6CAFD9 , #775499); /* For Firefox 3.6 to 15 */
+background: linear-gradient(to right, #6CAFD9 , #775499); /* Standard syntax */
   /*background-size: 1400px 1200px;*/
   /*background-color: rgb(129, 128, 237);*/
   /*background-color: rgb(232, 207, 190);*/
