@@ -22,6 +22,7 @@ h3 {
 }
 
 nav {
+  text-align: center;
   /*background-color: rgb(246, 244, 247);*/
   /*color: #F2B5D4;*/
   /*margin: 10px;
@@ -31,6 +32,7 @@ nav {
 nav a {
   font-family: 'Baloo Chettan', cursive, sans-serif;
   text-decoration: none;
+  text-align: center;
   /*margin: 4em;
   font-size: 18px;*/
 
@@ -142,6 +144,8 @@ ul.topnav {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    position: relative;
+    left: 400px;
     /*background-color: #333;*/
 }
 ul.topnav li {float: left;}
@@ -178,4 +182,13 @@ ul.topnav li.icon {display: none;}
     display: block;
     text-align: left;
   }
+}
+/*.active{
+  background-color: #775499;
+}*/
+/*a:active{
+  background-color: #775499;
+}*/
+a:hover{
+  background-color: #775499
 }
